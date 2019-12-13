@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">80dp</dimen>
+    <dimen name="miniSize">40sp</dimen>
+    <dimen name="miniSize_btn">30dp</dimen>
+</resources>
